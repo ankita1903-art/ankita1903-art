@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankita1903-art
 - 👀 I’m interested in Designing 
-- 🌱 I’m currently learning JAVA 
+- 🌱 I’m currently learning Python
 - 😄 Pronouns: SHE
 - ⚡ Fun fact: 🤔
 
